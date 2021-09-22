@@ -1,0 +1,24 @@
+[{"id":31943430,
+ "qr":{
+        "image":"https://www.mercadopago.com/instore/merchant/qr/31943430/6a00f183aa2f45ac8b7a1e362cca9a1be34ab1f5402e4291a8c613ba85fc87ce.png",
+        "template_document":"https://www.mercadopago.com/instore/merchant/qr/31943430/template_6a00f183aa2f45ac8b7a1e362cca9a1be34ab1f5402e4291a8c613ba85fc87ce.pdf",
+        "template_image":"https://www.mercadopago.com/instore/merchant/qr/31943430/template_6a00f183aa2f45ac8b7a1e362cca9a1be34ab1f5402e4291a8c613ba85fc87ce.png"},
+        "status":"active",
+        "date_created":"2021-09-18T16:37:21.000-04:00",
+        "date_last_updated":"2021-09-18T16:37:21.000-04:00",
+        "uuid":"6a00f183aa2f45ac8b7a1e362cca9a1be34ab1f5402e4291a8c613ba85fc87ce",
+        "user_id":20450309,"name":"Caja Principal",
+        "fixed_amount":true,
+        "category":621102,
+        "store_id":"42083277",
+        "external_store_id":"STORE001",
+        "external_id":"CAJA0001",
+        "site":"MLA",
+        "qr_code":"00020101021143530016com.mercadolibre0129https://mpago.la/pos/3194343050150011203361575885204970053030325802AR5922Ornelidades Accesorios6004CABA63042D6B"
+    },
+
+{"id":32035939,"qr":{"image":"https://www.mercadopago.com/instore/merchant/qr/32035939/4e225cac2ab34a979f52acc7965923334c7aedb176124038b9de42fd18028ff4.png","template_document":"https://www.mercadopago.com/instore/merchant/qr/32035939/template_4e225cac2ab34a979f52acc7965923334c7aedb176124038b9de42fd18028ff4.pdf","template_image":"https://www.mercadopago.com/instore/merchant/qr/32035939/template_4e225cac2ab34a979f52acc7965923334c7aedb176124038b9de42fd18028ff4.png"},"status":"active","date_created":"2021-09-20T15:39:14.000-04:00","date_last_updated":"2021-09-20T15:39:14.000-04:00","uuid":"4e225cac2ab34a979f52acc7965923334c7aedb176124038b9de42fd18028ff4","user_id":20450309,"name":"Caja Principal","fixed_amount":true,"category":621102,"store_id":"42083277","external_store_id":"STORE001","external_id":"CAJA0002","site":"MLA","qr_code":"00020101021143530016com.mercadolibre0129https://mpago.la/pos/3203593950150011203361575885204970053030325802AR5922Ornelidades Accesorios6004CABA6304CB6C"},
+{"qr_data":"00020101021243650016com.mercadolibre020130636475f7aa6-0243-417f-b244-b5eeaaf9bc3850150011203361575885204970053030325802AR5922Ornelidades Accesorios6004CABA6304F3E5"}
+
+]
+

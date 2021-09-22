@@ -1,0 +1,30 @@
+{   "usuarios":[
+        {
+            "id": 826635257,
+            "nickname": "TETE6232698",
+            "password": "qatest7037",
+            "site_status": "active",
+            "email": "test_user_54721464@testuser.com"
+        },
+        {
+            "id": 826721310,
+            "nickname": "TETE3734101",
+            "password": "qatest2596",
+            "site_status": "active",
+            "email": "test_user_64098681@testuser.com"
+        },
+        {   
+            "id":826724511,
+            "nickname":"TETE1646234",
+            "password":"qatest7053",
+            "site_status":"active",
+            "email":"test_user_71153785@testuser.com"
+        },
+        {
+            "id":826732399,
+            "nickname":"TEST97JEGSPA",
+            "password":"qatest999",
+            "site_status":"active",
+            "email":"test_user_37702588@testuser.com"}
+        ]
+}
